@@ -1,0 +1,32 @@
+{
+    "escuderia": "Atlassian Williams Racing",
+    "jefe": "James Vowles",
+    "constructores": 9,
+    "creacion": 1977,
+    "piloto1": {
+        "nombre": "Alex Albon",
+        "victorias": 0,
+        "gpCorridos": 104,
+        "puntos": 240,
+        "podios": 2,
+        "equipos": [
+            "Toro Rosso",
+            "Red Bull",
+            "Williams"
+        ]
+    },
+    "piloto2": {
+        "nombre": "Carlos Sainz",
+        "victorias": 4,
+        "gpCorridos": 183,
+        "puntos": 1272.5,
+        "podios": 27,
+        "equipos": [
+            "Toro Rosso",
+            "Renault",
+            "Mclaren",
+            "Ferrari",
+            "Williams"
+        ]
+    }
+}
