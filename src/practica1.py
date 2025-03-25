@@ -2,7 +2,7 @@
 import json
 
 # Cargar el archivo Práctica1.json en la variable f1
-datos = json.load(open("datosf1.json"))
+datos = json.load(open("datos.json"))
 print()
 # Ver los datos cargados (5 accesos diferentes)
 #1
